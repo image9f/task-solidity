@@ -1,0 +1,11 @@
+{
+  "name": "MyNFT_TEST",
+  "description": "MyNTF test picture",
+  "image": "ipfs://QmWH2g5VT1PVCGRhhjwNb4rC9vRohP3L1EL3a9WuSL3AX9",
+  "external_url": "https://你的站点或详情页（可选）",
+  "animation_url": "ipfs://<你的多媒体文件CID，可选>",
+  "attributes": [
+    { "trait_type": "主题", "value": "风景" },
+  ],
+  "background_color": "FFFFFF"
+}
